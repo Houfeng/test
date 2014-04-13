@@ -1,2 +1,3 @@
 houfeng  
-test1
+i am houfeng
+这是测试
